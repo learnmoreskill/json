@@ -3,7 +3,7 @@
 "heroes":[
 {
 "name": "Spiderman",
-"about": "Spiderman is a fictional superhero appearing in american comic books.",
+"about": "यहाँ आपको मिलेगा दुनिया की सबसे अच्छी 270+ प्रेरक कहानियों का सबसे बड़ा संग्रह. ऐसी हिंदी स्टोरीज जो मनोरंजन के साथ-साथ आपको बड़ी सीख देने का भी काम करती हैं..",
 "image": "http://placehold.it/600/92c952"
 },
 {
