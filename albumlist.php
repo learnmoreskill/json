@@ -7,10 +7,40 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"6044169237520279841"
+               "$t":"10"
             },
             "gphoto$name":{  
                "$t":"Natures"
+            },
+            "gphoto$numphotos":{  
+               "$t":10
+            }
+         },
+         {  
+            "title":{  
+               "$t":"Oreo",
+               "type":"text"
+            },
+            "gphoto$id":{  
+               "$t":"20"
+            },
+            "gphoto$name":{  
+               "$t":"Oreo"
+            },
+            "gphoto$numphotos":{  
+               "$t":10
+            }
+         },
+         {  
+            "title":{  
+               "$t":"Nougat",
+               "type":"text"
+            },
+            "gphoto$id":{  
+               "$t":"30"
+            },
+            "gphoto$name":{  
+               "$t":"Nougat"
             },
             "gphoto$numphotos":{  
                "$t":10
@@ -23,7 +53,7 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"6044179913200717377"
+               "$t":"40"
             },
             "gphoto$name":{  
                "$t":"Natures"
