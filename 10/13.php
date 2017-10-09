@@ -1,0 +1,17 @@
+{  
+   "version":"1.0",
+   "encoding":"UTF-8",
+   "entry":{ 
+      "media$group":{  
+         "media$content":[  
+            {  
+               "url":"https://learnmoreskill.github.io/json/10/13.jpg",
+               "height":2880,
+               "width":1800,
+               "type":"image/jpeg",
+               "medium":"image"
+            }
+         ]
+      }
+   }
+}
