@@ -151,7 +151,7 @@
             "gphoto$numphotos":{  
                "$t":25
             }
-         },
+         }
       ]
    }
 } 
