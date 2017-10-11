@@ -7,7 +7,7 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"10"
+               "$t":"materialize"
             },
             "gphoto$name":{  
                "$t":"Materialize"
@@ -22,13 +22,13 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"20"
+               "$t":"oreo"
             },
             "gphoto$name":{  
                "$t":"Oreo"
             },
             "gphoto$numphotos":{  
-               "$t":10
+               "$t":12
             }
          },
          {  
@@ -37,13 +37,13 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"30"
+               "$t":"nougat"
             },
             "gphoto$name":{  
                "$t":"Nougat"
             },
             "gphoto$numphotos":{  
-               "$t":10
+               "$t":12
             }
          },
          {  
@@ -53,7 +53,7 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"40"
+               "$t":"natures"
             },
             "gphoto$name":{  
                "$t":"Natures"
