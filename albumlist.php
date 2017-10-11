@@ -10,10 +10,10 @@
                "$t":"10"
             },
             "gphoto$name":{  
-               "$t":"Natures"
+               "$t":"Materialize"
             },
             "gphoto$numphotos":{  
-               "$t":10
+               "$t":32
             }
          },
          {  
