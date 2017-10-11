@@ -22,7 +22,7 @@
                "type":"text"
             },
             "gphoto$id":{  
-               "$t":"oreo"
+               "$t":"20"
             },
             "gphoto$name":{  
                "$t":"Oreo"
